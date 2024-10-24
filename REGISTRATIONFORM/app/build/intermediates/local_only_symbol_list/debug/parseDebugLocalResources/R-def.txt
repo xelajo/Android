@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font abril_fatface
+font abyssinica_sil
+id button
+id editTextNumber
+id editTextPhone
+id editTextText
+id editTextText2
+id editTextText4
+id editTextText5
+id editTextTextPassword
+id main
+id textView
+id textView2
+id textView3
+id textView4
+id textView5
+id textView6
+id textView8
+id textView9
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.REGISTRATIONFORM
+style Theme.REGISTRATIONFORM
+xml backup_rules
+xml data_extraction_rules
